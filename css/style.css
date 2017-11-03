@@ -1,0 +1,27 @@
+body{
+  background: #66ff33;
+}
+#Kraus{
+  background: #0000ff;
+  border: 2px solid;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  }
+h1{
+  color: #66ff33;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: #0000ff;
+}
+#fhdkhkfk{
+  background: #0000ff;
+  border: 2px solid;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+p{
+  color: #66ff33;
+}
